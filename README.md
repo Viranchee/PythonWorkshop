@@ -9,13 +9,15 @@ You will learn Python language with implementation details, and can apply the sk
 
 ### Required
 
-Terminal/CMD: `python3 --version`
+Terminal/CMD: `> python3 --version`
+
+>Hello
 
 VSCode / PyCharm / < insertYourFacouriteIDEorEditor >
 
 ### Optional
 
-`git --version`
+`> git --version`
 
 VirancheePythonWorkshop2018.zip : (will be provided during the seminar)
 
