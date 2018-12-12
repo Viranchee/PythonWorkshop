@@ -8,13 +8,13 @@ You will learn Python language with implementation details, and can apply the sk
 
 ### Required
 
-Terminal/CMD: `> python3 --version`
+[Python](https://www.python.org/downloads/): `> python3 --version`
 
-VSCode / PyCharm / < insertYourFacouriteIDEorEditor >
+[VSCode](https://code.visualstudio.com/Download) / [PyCharm](https://www.jetbrains.com/pycharm/download/) / < insertYourFacouriteIDEorEditor >
 
 ### Optional
 
-`> git --version`
+[Git](https://git-scm.com/downloads) `> git --version`
 
 VirancheePythonWorkshop2018.zip : (will be provided during the seminar)
 
