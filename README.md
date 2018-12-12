@@ -2,8 +2,7 @@
 
 ## What this seminar is about
 
-You will learn Python language with implementation details, and can apply the skills in real life with using Bash, Kernel and Networking 
-
+You will learn Python language with implementation details, and can apply the skills in real life with using Bash, Kernel and Networking
 
 ## Requirements
 
